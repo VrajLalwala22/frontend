@@ -8,7 +8,7 @@ function DefaultLayout(props)
                 <div className = "d-flex justify-content-between">
                     <h1>SaiCars</h1>
 
-                    <button>user</button>
+                
                 </div>
             </div>
             <div className="content">

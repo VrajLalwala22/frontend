@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "express": "^4.21.2",
+    "mongoose": "^8.9.5",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "name": "frontend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "scripts": {
+  "start": "node server.js",
+  "dev": "nodemon server.js"
+},
+
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VrajLalwala22/frontend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VrajLalwala22/frontend/issues"
+  },
+  "homepage": "https://github.com/VrajLalwala22/frontend#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
