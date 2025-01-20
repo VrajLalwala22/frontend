@@ -15,11 +15,11 @@ function App() {
         <Routes> {/* Wrap all Route components inside Routes */}
           <Route path="/" element={<Home />} />
           <Route path="/login" element={<Login />} />
-          <Route path="/register" element={<Register />} />
+          <Route path="/register" element={<Register />} /> uguyguyguy
           <Route path="/bookingcar" element={<BookingCar />} />
         </Routes>
       </Router>
-      
+
     </div>
   );
 }
